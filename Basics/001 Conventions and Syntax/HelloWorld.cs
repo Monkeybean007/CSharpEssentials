@@ -1,12 +1,9 @@
-//Use this file to store your work to demonstrate your understanding of operators
-//Make sure your work is different from the instructors examples or your peers
 using System;
-
-public class HelloWorld
+					
+public class Program
 {
-    public static void Main(string[] args)
-    {
-        //Change "HW" to "Hello World"
-        Console.WriteLine("HW");
-    }    
+	public static void Main()
+	{
+		Console.WriteLine("HW");
+	}
 }
